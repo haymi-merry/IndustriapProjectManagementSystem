@@ -1,0 +1,15 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# JavaFX SDK
+lib/javafx-sdk-*
+
+# IDE files
+.idea/
+*.iml
+
+# Build files
+bin/
+build/
+out/
